@@ -8,8 +8,8 @@ This project allows you to receive motion detection events from a Ring doorbell 
 
 1. Clone the repository (if you haven't already):
    ```bash
-   git clone https://github.com/oleksandr1811/ring-api.git
-   cd ring-api
+   git clone https://github.com/oleksandr1811/ring-telegram.git
+   cd ring-telegram
    ```
 
 2. Install dependencies:
