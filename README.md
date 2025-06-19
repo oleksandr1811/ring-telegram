@@ -10,7 +10,7 @@ This project allows you to receive motion detection events from a Ring doorbell 
    ```bash
    git clone https://github.com/oleksandr1811/ring-api.git
    cd ring-api
-````
+   ```
 
 2. Install dependencies:
 
