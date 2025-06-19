@@ -1,0 +1,29 @@
+{
+  "name": "ring-client-example",
+  "version": "1.0.0",
+  "description": "Example use of the `ring-client-api` npm package",
+  "main": "lib/index.js",
+  "scripts": {
+    "start": "npm run ts-example",
+    "auth": "ring-auth-cli",
+    "ts-example": "tsc && node --env-file=.env lib/example.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dgreif/ring-client-example.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dgreif/ring-client-example/issues"
+  },
+  "homepage": "https://github.com/dgreif/ring-client-example#readme",
+  "dependencies": {
+    "form-data": "^4.0.3",
+    "formdata-node": "^6.0.3",
+    "node-fetch": "^3.3.2",
+    "ring-client-api": "^13.2.1"
+  },
+  "devDependencies": {
+    "@types/form-data": "^2.2.1",
+    "typescript": "^5.8.2"
+  }
+}
