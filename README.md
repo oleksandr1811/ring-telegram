@@ -35,7 +35,7 @@ After obtaining the API key:
 2. Add the following variables (replace with your actual values):
 
    ```
-   API_KEY=your_key_here
+   RING_REFRESH_TOKEN=your_refresh_token_here
    TELEGRAM_BOT_TOKEN=your_bot_token
    TELEGRAM_CHAT_ID=your_chat_id
    ```
