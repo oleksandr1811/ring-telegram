@@ -15,7 +15,7 @@ This project allows you to receive motion detection events from a Ring doorbell 
 2. Install dependencies:
 
    ```bash
-   npm install
+   npm i
    ```
 
 3. Authenticate to obtain an API key:
