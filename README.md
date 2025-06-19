@@ -1,4 +1,3 @@
-````markdown
 # 🚀 Ring Telegram Motion Detect
 
 This project allows you to receive motion detection events from a Ring doorbell and send them to Telegram.
